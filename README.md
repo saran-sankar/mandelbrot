@@ -1,2 +1,2 @@
 # mandelbrot
-Mandelbrot set
+Generating Mandelbrot set in MATLAB
